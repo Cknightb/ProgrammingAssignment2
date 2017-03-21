@@ -1,5 +1,5 @@
-## Put comments here that give an overall description of what your
-## functions do
+## The functions makeCacheMatrix and cacheSolve are used to calculate the inverse of 
+## a square matrix using solve() with the use of caching to improve calculation efficiency
 
 ## makeCacheMatrix creates a CacheMatrix object that stores and retrieves the inverse of a 
 ##square matrix by calling cacheSolve, and caches the result
